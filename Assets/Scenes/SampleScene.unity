@@ -149,14 +149,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 680022909}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 18377b6c357a4b14288543eb485bfbca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   _material: {fileID: 2100000, guid: a9549041447713b49b173d36358c332e, type: 2}
-  _depth: 4
+  _depth: 5
   _speedRotation: 80
 --- !u!135 &680022911
 SphereCollider:
@@ -185,7 +185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   _material: {fileID: 2100000, guid: a9549041447713b49b173d36358c332e, type: 2}
-  _depth: 4
+  _depth: 5
   _speedRotation: 80
 --- !u!4 &680022914
 Transform:
